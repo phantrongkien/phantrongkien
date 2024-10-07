@@ -16,7 +16,13 @@ My coding journey started with learning about the batch files available on Windo
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-#
+### 🚀 My latest project
+<a href="https://github.com/phantrongkien/Nettool"> Nettool</a> - Unfortunately, this toolkit does not have an English version yet. I will try to translate this tool into English.
+If you want to dowload it then check this out :
+```
+git clone https://github.com/phantrongkien/Nettool.git
+```
+
 
 ### 📊 Stats
 

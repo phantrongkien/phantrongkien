@@ -19,6 +19,8 @@ My coding journey started with learning about the batch files available on Windo
 
 ### 🚀 My latest project
 
+![visual](https://github.com/user-attachments/assets/e94c4c8b-49d0-4b90-b6e4-b1d663dfd029)
+
 <a href="https://github.com/phantrongkien/Nettool"> Nettool</a> - Unfortunately, this toolkit does not have an English version yet. I will try to translate this tool into English.
 If you want to dowload it then check this out :
 ```

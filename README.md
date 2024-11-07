@@ -1,6 +1,6 @@
 # **`⌨️ Phantrongkien `**
 
-My coding journey started with learning about the batch files available on Windows, I am trying to design the most perfect multi-tool possible. After mastering batch, I plan to switch to writing this tool in Python to optimize and expand its features. In addition, I am also researching security technology, using tools like Kali Linux 🐲 to gain a deeper understanding of the world of hackers and network security. Although it is just a skid 📚 at the moment, I hope to be able to create many unique and useful tools in the future.
+My coding journey started with learning about the batch files available on Windows, I am trying to design the most perfect multi-tool possible. After mastering batch, I plan to switch to writing this tool in Python to optimize and expand its features. In addition, I am also researching security technology, using tools like Kali Linux 🐲 to gain a deeper understanding of the world of hackers and network security. Although I'm just a skid 📚 at the moment, I hope to be able to create many unique and useful tools in the future.
 
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/phantrongkien?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
